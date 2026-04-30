@@ -26,3 +26,18 @@ A Python project to clean messy data, store it in SQL, and utilise Power BI to e
 
 ### Results ###
 
+### To-Do ###
+
+- Load raw data in Python.
+
+- Clean it with pandas:
+    - Missing values 
+    - Duplicate rows
+    - Category standardisation.
+
+- Save the cleaned output as a database table.
+
+- Load both raw and cleaned versions into Power BI.
+
+- Build a dashboard that compares before and after.
+
